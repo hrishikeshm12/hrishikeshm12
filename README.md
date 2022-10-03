@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hrishikeshm12
 - 👀 I’m interested in ...software development,data science,machine learning,artifical intelligence 
-- 🌱 I’m currently learning ...machine learning ,artifical intelligence ,web development currently in 3rd year at vellore institute of technology 
+- 🌱 I’m currently learning ...machine learning ,artifical intelligence ,web development currently in final year at vellore institute of technology 
 - 💞️ I’m looking to collaborate on ...software development,app development and new technology
 - 📫 How to reach me ...mail me at-hrishikeshmagadum09@gmail.com.
 
