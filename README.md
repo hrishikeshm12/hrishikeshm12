@@ -1,8 +1,8 @@
-👋 Hi, I’m @hrishikeshm12
+👋 Hi, I’m Hrishikesh Magadum
 
 🚀 Tech Enthusiast | Software Developer | Data Scientist
 
-🎓 VIT Vellore 2023 Computer Science Graduate 🎓t
+🎓 VIT Vellore 2023 Computer Science Graduate 🎓
 
 🌟 Passionate about software development, data science, machine learning, and artificial intelligence
 
